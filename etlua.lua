@@ -1,3 +1,5 @@
+
+-- 测试注释。。。
 local VERSION = "1.3.0"
 local insert, concat
 do
